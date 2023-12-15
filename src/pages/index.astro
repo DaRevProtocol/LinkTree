@@ -17,13 +17,22 @@ import {
 // fetch all Markdown files in the links directory
 const links = await Astro.glob("./links/*.md");
 ---
-
 <Layout title={TITLE + " - " + SUBTITLE}>
-	
     <Header subtitle={SUBTITLE} title={TITLE} tagline={TAGLINE} />
 
-    <section>
-        <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+    <section style="position: relative;">
+        <video
+            autoplay
+            muted
+            loop
+            playsinline
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;"
+        >
+            <source src="/See2BG.mov" type="video/mov" />
+            <!-- 添加其他视频格式（如WebM、Ogg）的<source>元素，以提供兼容性 -->
+        </video>
+
+        <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 ">
             <div class="mx-auto max-w-3xl">
                 <div class="grid grid-cols-1 gap-4 sm:grid-cols-2">
                     {
@@ -46,9 +55,8 @@ const links = await Astro.glob("./links/*.md");
         email={email}
     />
 
-	<Footer
-		title={TITLE}
-		tagline={TAGLINE}
-	/>
-
+    <Footer
+        title={TITLE}
+        tagline={TAGLINE}
+    />
 </Layout>
