@@ -1,5 +1,5 @@
 ---
-title: Solana Colosseum Radar Pitch
-emoji: 🎙️
-href: https://youtu.be/q-GwvVUagLM
+title: See2 Link
+emoji: 👀
+href: https://see2.link
 ---
