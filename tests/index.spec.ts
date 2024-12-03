@@ -3,7 +3,7 @@ import { test, expect } from '@playwright/test';
 test('homepage has title and links', async ({ page }) => {
   await page.goto('http://localhost:3000');
 
-  await expect(page).toHaveTitle(/Club See 2/);
+  await expect(page).toHaveTitle(/Data Revolution/);
 
   const twitter = page.getByRole('link', { name: '🐦 Twitter' });
   await expect(twitter).toHaveAttribute('href', 'https://x.com/DaRev_tech');
