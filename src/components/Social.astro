@@ -8,7 +8,7 @@ export interface Props {
 const { socials } = Astro.props;
 ---
 
-<div class="mt-5 flex justify-center space-x-2  ">
+<div class="mt-5 flex justify-center gap-4  bg-white/10 rounded-lg p-2 items-center w-fit mx-auto min-w-[200px] ">
     {
         socials.map((social: any) => (
             <Icon 

@@ -1,8 +1,8 @@
-export const SUBTITLE = "See through the future"
-export const TITLE = "Club See 2"
-export const TAGLINE = "Your New On-chain Identity"
+// export const SUBTITLE = "Data Revolution"
+export const TITLE = "Data Revolution"
+export const TAGLINE = "Transform your animal data into applicable knowledge"
 
 // Contacts
 export const contact = "Keep in touch"
 export const phone = "+00000000000"
-export const email = "contactus@see2.club"
+export const email = "contactus@darev.io"

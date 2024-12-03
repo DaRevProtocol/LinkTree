@@ -1,4 +1,4 @@
 ---
 icon: twitter
-url: https://twitter.com/see2club
+url: https://twitter.com/DaRev_tech
 ---

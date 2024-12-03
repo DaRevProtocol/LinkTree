@@ -1,5 +1,5 @@
 ---
-title: Instagram
-emoji: 📺
-href: https://www.instagram.com/see2.club
+title: Linkedin
+emoji: 🏛️
+href: https://www.linkedin.com/company/darev/
 ---

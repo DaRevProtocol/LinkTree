@@ -1,5 +1,5 @@
 ---
-title: see2 link pitch
+title: DaRev Pitch
 emoji: 🎙️
-href: https://pitch.com/v/see-2-link-887ine
+href: https://pitch.com/
 ---

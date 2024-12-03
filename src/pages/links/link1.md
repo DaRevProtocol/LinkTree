@@ -1,5 +1,5 @@
 ---
 title: Official Website
 emoji: 📝
-href: https://see2.club
+href: https://darev.tech
 ---

@@ -1,5 +1,5 @@
 ---
-title: See2 Link
-emoji: 👀
-href: https://see2.link
+title: MiceCraft
+emoji: 🐭
+href: https://micecraft.darev.io/
 ---
