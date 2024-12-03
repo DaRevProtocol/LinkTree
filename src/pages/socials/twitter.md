@@ -1,4 +1,4 @@
 ---
 icon: twitter
-url: https://twitter.com/DaRev_tech
+url: https://x.com/DaRev_tech
 ---

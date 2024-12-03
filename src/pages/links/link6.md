@@ -1,5 +1,5 @@
 ---
 title: Twitter
 emoji: 🐦
-href: https://twitter.com/DaRev_tech
+href: https://x.com/DaRev_tech
 ---
