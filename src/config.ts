@@ -1,4 +1,4 @@
-// export const SUBTITLE = "Data Revolution"
+export const SUBTITLE = "Join the Revolution"
 export const TITLE = "Data Revolution"
 export const TAGLINE = "Transform your animal data into applicable knowledge"
 
